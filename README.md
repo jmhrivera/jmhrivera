@@ -49,7 +49,8 @@ posals. Excited to apply my newly acquired skills in Python and Machine Learning
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
-
 #  Github Stats 📊 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jmhrivera&theme=dark&background=000000)](https://git.io/streak-stats)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmhrivera&layout=compact&theme=vision-friendly-dark)](https://github.com/jmhrivera/github-readme-stats)
 
