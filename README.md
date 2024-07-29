@@ -18,7 +18,7 @@
 
 <br>
 
-# About me 😃
+# About me :man_technologist:
 💻 Data specialist with 9 years of experience in data analysis, creating reports and presenting results, I stand out for my proactivity reflected in pro‑
 posals. Excited to apply my newly acquired skills in Python and Machine Learning to deliver efficient and high‑impact solutions.
 
