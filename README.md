@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img decoding="async" src="https://media.licdn.com/dms/image/D5616AQG-3qUXvkjqfA/profile-displaybackgroundimage-shrink_350_1400/0/1721966225560?e=1727913600&v=beta&t=htYh6Z1upQvu65ummiOpgT084ty5DR0D1yRbUYTRcok" width="800"/>
+</div>
+
+
 <h1 align="center">Hi, I'm JuanMa 
 <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1> 
