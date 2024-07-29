@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/jmhrivera/jmhrivera/blob/main/back_LinkedIn.jpg" width="925"/>
   
+![](https://komarev.com/ghpvc/?username=jmhrivera)
 </div>
 
 
@@ -59,4 +60,3 @@ posals. Excited to apply my newly acquired skills in Python and Machine Learning
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jmhrivera&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmhrivera&layout=compact&theme=vision-friendly-dark)](https://github.com/jmhrivera/github-readme-stats)
-
